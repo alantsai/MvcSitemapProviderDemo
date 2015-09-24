@@ -14,3 +14,4 @@ Solutions/MvcSitemapProviderDemo/Scripts/jquery.validate.unobtrusive.min.js ling
 Solutions/MvcSitemapProviderDemo/Scripts/knockout-2.2.0.debug.js linguist-vendored
 Solutions/MvcSitemapProviderDemo/Scripts/knockout-2.2.0.js linguist-vendored
 Solutions/MvcSitemapProviderDemo/Scripts/modernizr-2.6.2.js linguist-vendored
+Solutions/MvcSitemapProviderDemo/Content/themes/base/* linguist-vendored
